@@ -1,0 +1,10 @@
+git desktop commands.txt
+
+1. how to open the git bash :- Go inside the project folder and Shift+ right click  select the (Open git bash here) option.
+
+
+2. git init :- used to initialize empty git repository. 
+  what is a repository ?
+  Ans:-  A repository (often shortened to repo) is basically a storage space for your project’s code and history. Think of it as the “folder” where Git keeps track of everything about your project.
+
+2. git status :- as the name indicates shows the current status of the git. 
