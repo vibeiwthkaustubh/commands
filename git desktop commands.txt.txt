@@ -1,4 +1,4 @@
-git desktop commands.txt
+git desktop commands.txt  This is the file where all the commands are written in order :-
 
 1. how to open the git bash :- Go inside the project folder and Shift+ right click  select the (Open git bash here) option.
 
